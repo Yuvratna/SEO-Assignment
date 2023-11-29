@@ -1,0 +1,84 @@
+Q.1 What is SEO explain the importance of SEO ?
+ans:	SEO means Search Engine Optimization and is the process used to optimize a website's technical configuration, content relevance and link popularity so its pages can become easily findable, more relevant and popular towards user search queries, and as a consequence, search engines rank them better.
+	Search engines recommend SEO efforts that benefit both the user search experience and page’s ranking, by featuring content that fulfills user search needs. This includes the use of relevant keywords in titles, meta descriptions, and headlines (H1), featuring descriptive URLs with keywords rather than strings of numbers, and schema markup to specify the page's content meaning, among other SEO best practices.
+
+Why It’s Important :
+	Search engines help people find what they’re looking for online. Whether researching a product, looking for a restaurant, or booking a vacation, search engines are a common starting point when you need information. For business owners, they offer a valuable opportunity to direct relevant traffic to your website.
+
+	Search engine optimization (SEO) is the practice of orienting your website to rank higher on a search engine results page (SERP) so that you receive more traffic. The aim is typically to rank on the first page of Google results for search terms that mean the most to your target audience. So, SEO is as much about understanding the wants and needs of your audience as it is about the technical nature of how to configure your website.
+
+The role of SEO:
+	The goal of SEO is to raise your ranking in organic search results. There are different practices for optimizing AdWords, shopping, and local results.
+
+	While it may appear that so many competing elements taking up real estate on SERPs push the organic listings down, SEO can still be a very powerful, lucrative effort.
+
+	Considering that Google processes billions of search queries daily, organic search results are a very large slice of a very large pie. And while there is some up-front and ongoing investment required to secure and maintain organic rankings, every click that sends traffic to your website is completely free.
+______________________________________________________________________________________________________________________________________________________________________________________________
+
+Q.2 What are the benefits of using meta tags ?
+ans: Benefits of using meta tags
+Now that we have discussed what meta tags are and which ones matter the most when it comes to optimising your website, it is time to go through the benefits.
+
+1. Meta tags provides relevancy
+Meta tags show search engines how relevant your page is to the user’s query.
+A query can be anything from “Thai restaurant near me” to “Benefits of jogging every morning”. As the information in the meta title tag indicates that the page is of interest to the user, the search engine will deliver it on its results page, depending on the authority of the page.
+If you have a meta description tag and title which speaks directly to what the user is searching for, your rankings will improve as a byproduct of this.
+The more your page is viewed by people who visit the page and the more the page is referenced on other online platforms, the more authority your page will have.
+On the other hand, if people are drawn into reading your page and then leave the page because the meta title and description are misleading, this will increase the bounce rate and negatively affect your ranking on the SERPs.
+
+2. You save time without writing too much
+As meta tags are in the HTML of your website, they are not meant to be long copy.
+They need to be short and sweet. You do not want excessive amounts of code on your website.
+These are simple and to the point, whether you are writing a meta title or a meta description. These metadata are usually limited to a few words.
+This is a benefit as you will not have to craft a lengthy message and have a copywriter create it over a long period of time. Meta tags should be minimal in length.
+
+3. They optimise your site without making things untidy
+Meta tags do not affect the actual, visible content of your website in any way.
+This means that they do not take up space which could be used for selling products or services, encouraging social engagement or presenting ideas.
+Unlike your standard website blog posts and articles, you don’t need to ‘strategically’ sprinkle keywords to help your page rank on Google.
+All your metadata is added on the backend of your website. They don’t mess up any of your website’s design or content.
+What it also means is that your readers will not have to read through the meta tags to find the content that they want.
+This benefits you as there will not be a high bounce rate due to unnecessary content on the page itself.
+
+4. They can be quickly implemented
+There is no need for keyword research and strategy with constant updates on your search engine optimisation as there are no keywords for meta tags.
+This means you’ll save time from carrying out long hours of keyword research just to know the ‘right’ keywords to add into your meta tags.
+There used to be keywords available for use on Google, but they have since outlawed it thanks to people who mislead audiences by giving the wrong information in the meta tags to get a high click-through rate on their page.
+While not being able to use keywords may seem to be a negative point at first glass, it is actually a positive.
+Why? Because you do not have to update your SEO strategy as regularly as you would have to if you were using keywords. It also stops other websites from stealing your traffic by misleading searchers.
+
+5. They allow you to track your metrics better
+You want people who are looking for your website to find it, right?
+Or, at least, you want people who are searching for the information your page offers to find it. This is one of the many benefits of meta tags.
+In fact, some might argue this is the most important benefit for using meta tags.
+It will ensure that all traffic to your website is legitimate and that the people who are looking for your content are the ones who find it, therefore lessening your bounce rate and increasing the authority of your website.
+When you look at your Google Analytics, you want all data to be truthful and legit.
+This way, you can work on your content and create a website that brings in traffic which is useful to your business.
+When you do not make use of meta tags, you are giving up the opportunity to tell people (and search engines) exactly what is on your website before they click on it and then click out of it again.
+____________________________________________________________________________________________________________________________________________________________________________________________
+
+
+Q.3 Define Fevicon and give an illustrative example.
+ans:	A favicon is a small, 16x16 pixel icon used on web browsers to represent a website or a web page. Short for “favorite icon,”’ favicons are commonly displayed on tabs at the top of a web browser,—but they’re also found on your browser’s bookmark bar, history and in search results, alongside the page url. 
+	In some instances, such as on Google Chrome, favicons will even make an appearance on your browser’s homepage. In other words, when you create a favicon, it serves as your website’s icon, or a visual identifier for users to spot your website around the web.
+A favicon may also be referred to as a shortcut icon, tab icon, URL icon or bookmark icon.
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Page Title</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+Now, save the "index.html" file and reload it in your browser. Your browser tab should now display your favicon image to the left of the page title.
+
+____________________________________________________________________________________________________________________________________________________________________________________________
+
+
